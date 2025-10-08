@@ -2,7 +2,6 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 
-
 public class Fichero7 {
     private static Scanner sc = new Scanner(System.in);
 
